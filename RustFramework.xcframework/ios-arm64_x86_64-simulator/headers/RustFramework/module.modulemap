@@ -1,0 +1,4 @@
+module rust_cargo_swiftFFI {
+    header "rust_cargo_swiftFFI.h"
+    export *
+}
